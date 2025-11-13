@@ -2,7 +2,7 @@
 <h3 align="center">🐍 Python Developer | 🤖 Telegram Bot Builder | 🎥 Content Creator</h3>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Python+Code+💡;Building+Creative+Telegram+Bots+🤖;Sharing+Knowledge+through+Content+🎥;Always+Learning+%26+Improving+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Python+Code+💡;تحويل+الأفكار+إلى+كود+بايثون+💡;Building+Creative+Telegram+Bots+🤖;بناء+بوتات+تيليجرام+إبداعية+🤖;Sharing+Knowledge+through+Content+🎥;مشاركة+المعرفة+عبر+المحتوى+🎥;Always+Learning+and+Improving+🚀;دائمًا+أتعلم+وأتطور+🚀" alt="Typing SVG" />
 </p>
 
 ---
