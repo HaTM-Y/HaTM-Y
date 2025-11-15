@@ -2,6 +2,13 @@
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Yazan Al-Hattami, Python Developer & Content Creator 📌<br>
+  
+  <h3 align="center">🐍 Python Developer | 🤖 Telegram Bot Builder | 🎥 Content Creator</h3>  
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Python+Code+💡;Building+Creative+Telegram+Bots+🤖;Sharing+Knowledge+through+Content+🎥;Always+Learning+%26+Improving+🚀" alt="Typing SVG" />
+</p>
+
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -60,13 +67,6 @@
 - ⚡ Fun fact: I can build a Telegram bot faster than making coffee ☕
 
 ---
-
-<h2 align="left">❤️ Let’s Get Connected:</h2>
-
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](#)
-[![TikTok Badge](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=TikTok&logoColor=white)](#)
-[![X Badge](https://img.shields.io/badge/-X-000000?style=flat-square&logo=X&logoColor=white)](#)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-24292e?style=flat-square&logo=GitHub&logoColor=white)](#)
 
 
 <p align="center">
