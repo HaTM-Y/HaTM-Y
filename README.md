@@ -1,38 +1,73 @@
-<h1 align="center">HaTM-Y / Yazan AL-HaTaMe </h1>  
-<h3 align="center">🐍 Python Developer | 🤖 Telegram Bot Builder | 🎥 Content Creator</h3>  
+<<h2 align="left">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Yazan Al-Hattami, Python Developer & Content Creator 📌<br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Python+Code+💡;تحويل+الأفكار+إلى+كود+بايثون+💡;Building+Creative+Telegram+Bots+🤖;بناء+بوتات+تيليجرام+إبداعية+🤖;Sharing+Knowledge+through+Content+🎥;مشاركة+المعرفة+عبر+المحتوى+🎥;Always+Learning+and+Improving+🚀;دائمًا+أتعلم+وأتطور+🚀" alt="Typing SVG" />
+<h2 align="left">🐍 Technologies and Tools I Use:</h2>
+<p align="left">
+
+<a href="https://www.python.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
+</a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
+</a>
+
+<a href="https://git-scm.com/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a>
+
+<a href="https://www.postman.com/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+</a>
+
+<a href="https://www.w3schools.com/html/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a>
+
 </p>
 
 ---
 
-### 🧠 About Me
-- 💻 Passionate **Python Developer** focused on automation and Telegram bots.  
-- 🎬 **Content Creator** on YouTube, TikTok, and X, sharing tech tutorials and coding insights.  
-- 🌱 Exploring **AI integrations**, **APIs**, and **backend development**.  
-- 🧰 Favorite tools: `Python`, `Telebot`, `Aiogram`, `Flask`, `Git`, `VS Code`.  
-- ⚡ Fun fact: I can build a Telegram bot faster than coffee brews ☕.  
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- 🐍 I'm a **Python Developer** specialized in automation & Telegram Bots  
+- 🎥 Content Creator on **YouTube، TikTok، X**  
+- 🤖 I develop smart and scalable **Telegram Bots** using Aiogram & Telebot  
+- 🚀 Always learning APIs, backend development, and cloud tools  
+- ✨ Passionate about simplifying coding for beginners  
+- ⚡ Fun fact: I can build a Telegram bot faster than making coffee ☕
 
 ---
 
-### 🏆 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yazan-Ibrahim&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yazan-Ibrahim&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazan-Ibrahim&layout=compact&theme=tokyonight" height="150"/>
-</p>
+<h2 align="left">❤️ Let’s Get Connected:</h2>
 
----
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](#)
+[![TikTok Badge](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=TikTok&logoColor=white)](#)
+[![X Badge](https://img.shields.io/badge/-X-000000?style=flat-square&logo=X&logoColor=white)](#)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-24292e?style=flat-square&logo=GitHub&logoColor=white)](#)
 
-### 🌍 Connect With Me
-<p align="center">
-  <a href="#"><img src="https://img.icons8.com/fluency/48/000000/youtube-play.png" alt="YouTube"/></a>
-  <a href="#"><img src="https://img.icons8.com/fluency/48/000000/tiktok.png" alt="TikTok"/></a>
-  <a href="#"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter"/></a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yazan-Ibrahim&label=Profile+Views&color=brightgreen&style=flat" alt="Profile views" />
